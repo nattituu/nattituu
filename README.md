@@ -15,7 +15,10 @@ Soy **Desarrolladora Full-Stack Python Trainee**, actualmente formándome en el 
 **"Desarrollo de Aplicaciones Full Stack Python"** (SENCE – Sustantiva).
 
 Me encanta aprender, practicar y construir proyectos reales que me permitan crecer profesionalmente.  
-Soy de **Maipú, Santiago (Chile)** y estoy comenzando mi camino en el mundo del desarrollo web.
+Soy de **Santiago (Chile)** y estoy comenzando mi camino en el mundo del desarrollo web.
+
+Mi objetivo es crecer paso a paso, construir una base sólida y prepararme para mi primera experiencia en un equipo real de desarrollo.
+
 
 ---
 
@@ -31,23 +34,30 @@ Soy de **Maipú, Santiago (Chile)** y estoy comenzando mi camino en el mundo del
 
 ---
 
-## 📘 Lo que estoy estudiando ahora mismo
-- jQuery  
-- Manejo de repositorios en GitHub  
-- Uso de ramas, commits y versionamiento  
-- Trabajo con GitHub Pages  
-- Integración de JS con HTML + CSS  
+## 📚 Lo que estoy aprendiendo en mi Bootcamp
+
+- 🧩 HTML y CSS  
+- 🎨 Bootstrap  
+- ⚡ JavaScript  
+- 🔄 jQuery (interacciones, eventos, DOM)  
+- 🔧 Git y GitHub (commits, ramas, subir proyectos)  
+- 📂 Organización y estructura de proyectos  
+- 🐍 Python (pronto en el programa)
+
+En esta etapa estoy enfocada en aprender y practicar.  
+Mis repositorios **reflejan ejercicios del bootcamp**, avances y experimentos del proceso.
+
 
 ---
 
 ## 🚀 Proyectos del Bootcamp
 Aquí algunos ejercicios prácticos que he ido desarrollando:
-
-- [M2L5](https://github.com/nattituu/2025PyM2L5)  
-- [M2L4](https://github.com/nattituu/2025PyM2L4)  
-- [Ejercicios M2 L3](https://github.com/nattituu/M2_L3_e1_e2_e3)  
-- [M2L2 - M2L3](https://github.com/nattituu/202PyM2L2L3)
-
+- [Módulo 2 - Lección 1: Introducción a la Web](https://github.com/nattituu/Modulo2_Leccion1_IntroWeb)
+- [Módulo 2 - Lección 2 y 3: Prácticas](https://github.com/nattituu/Modulo2_Leccion2_3_Practicas)
+- [Módulo 2 - Lección 3: HTML, CSS y JS](https://github.com/nattituu/Modulo2_Leccion3_HTML_CSS_JS)
+- [Módulo 2 - Lección 4: Eventos](https://github.com/nattituu/Modulo2_Leccion4_Eventos)
+- [Módulo 2 - Lección 5: jQuery](https://github.com/nattituu/Modulo2_Leccion5_jQuery)
+- [Módulo 2 - Lección 6: Carrusel con jQuery y Bootstrap](https://github.com/nattituu/Modeulo2_Leccion-6-Carrousel-jQuery-Bootstrap) 
 ---
 
 ## 🎯 Objetivos profesionales
@@ -59,5 +69,26 @@ Aquí algunos ejercicios prácticos que he ido desarrollando:
 
 ---
 
-## 📬 Contacto
-Pronto agregaré aquí mi perfil actualizado de **LinkedIn**.
+## 📂 ¿Qué encontrarás en mis repos?
+
+- Ejercicios guiados del profesor  
+- Prácticas de jQuery, HTML, CSS, Bootstrap  
+- Componentes vistos en clases:  
+  - Modales  
+  - Carousels  
+  - Listas dinámicas  
+  - Eventos JS/jQuery  
+- Proyectos pequeños de aprendizaje  
+
+*(Y todo irá creciendo con el tiempo)*
+
+---
+
+## 📫 ¿Hablamos?
+
+📍 Santiago – Chile  
+🌐 GitHub: **@nattituu**
+
+Si buscas a alguien con actitud, humildad, motivación y muchas ganas de aprender…  
+**me encantaría ser parte de tu equipo.**
+
