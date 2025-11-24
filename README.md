@@ -1,23 +1,47 @@
 # 👋 ¡Hola! Soy Natalia Rivas
 
-### 📚 Desarrolladora Full-Stack Python Trainee  
-En formación continua, actualmente cursando el bootcamp **Desarrollo de Aplicaciones Full Stack Python Trainee** (SENCE – Sustantiva). Me apasiona crear proyectos reales mientras aprendo, crecer en el mundo tech y aportar soluciones que de verdad ayuden a las personas.
+> *"Cada línea de código es una oportunidad para crecer y construir mi futuro como desarrolladora."*
+
+![Status](https://img.shields.io/badge/Estudiante_Full--Stack-Python-blueviolet)
+![Git](https://img.shields.io/badge/Git-En%20aprendizaje-orange)
+![HTML](https://img.shields.io/badge/HTML5-en%20progreso-red)
+![CSS](https://img.shields.io/badge/CSS3-en%20progreso-blue)
+![JS](https://img.shields.io/badge/JavaScript-en%20progreso-yellow)
 
 ---
 
-## 💻 Tecnologías que estoy aprendiendo
+## 💻 Sobre mí
+Soy **Desarrolladora Full-Stack Python Trainee**, actualmente formándome en el bootcamp  
+**"Desarrollo de Aplicaciones Full Stack Python"** (SENCE – Sustantiva).
+
+Me encanta aprender, practicar y construir proyectos reales que me permitan crecer profesionalmente.  
+Soy de **Maipú, Santiago (Chile)** y estoy comenzando mi camino en el mundo del desarrollo web.
+
+---
+
+## 🔧 Tecnologías que estoy aprendiendo
 - HTML5  
 - CSS3  
 - JavaScript  
 - jQuery  
 - Git & GitHub  
-- Fundamentos de Backend  
-- Python (próximamente en el bootcamp)
+- Bootstrap  
+- Terminal / CLI  
+- Próximamente: **Python + Backend**
 
 ---
 
-## 🚀 Proyectos del bootcamp
-*(Estos son algunos de mis repositorios de práctica)*
+## 📘 Lo que estoy estudiando ahora mismo
+- jQuery  
+- Manejo de repositorios en GitHub  
+- Uso de ramas, commits y versionamiento  
+- Trabajo con GitHub Pages  
+- Integración de JS con HTML + CSS  
+
+---
+
+## 🚀 Proyectos del Bootcamp
+Aquí algunos ejercicios prácticos que he ido desarrollando:
 
 - [M2L5](https://github.com/nattituu/2025PyM2L5)  
 - [M2L4](https://github.com/nattituu/2025PyM2L4)  
@@ -27,18 +51,13 @@ En formación continua, actualmente cursando el bootcamp **Desarrollo de Aplicac
 ---
 
 ## 🎯 Objetivos profesionales
-- Continuar mi formación como **desarrolladora full-stack**  
-- Desarrollar proyectos cada vez más completos  
-- Construir soluciones eficientes y modernas  
-- Trabajar en equipo y aplicar buenas prácticas reales  
+- Convertirme en desarrolladora full-stack junior  
+- Crear proyectos completos con frontend + backend  
+- Aplicar buenas prácticas reales  
+- Seguir formándome y trabajar en el área tech  
+- Desarrollar un portafolio profesional con GitHub Pages  
 
 ---
 
-## 🌍 Sobre mí
-Soy de **Maipú, Santiago (Chile)**.  
-Me gusta el aprendizaje constante, los desafíos y todo lo relacionado al desarrollo web. Estoy comenzando mi camino en tecnología y me proyecto trabajando como desarrolladora junior, creciendo cada día.
-
----
-
-## 📬 ¿Quieres contactarme?
-Pronto agregaré mi **LinkedIn** (actualizándolo actualmente). 
+## 📬 Contacto
+Pronto agregaré aquí mi perfil actualizado de **LinkedIn**.
