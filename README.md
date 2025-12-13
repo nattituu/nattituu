@@ -58,7 +58,7 @@ Aquí algunos ejercicios prácticos que he ido desarrollando:
 - [Módulo 2 - Lección 4: Eventos](https://github.com/nattituu/Modulo2_Leccion4_Eventos)
 - [Módulo 2 - Lección 5: jQuery](https://github.com/nattituu/Modulo2_Leccion5_jQuery)
 - [Módulo 2 - Lección 6: Carrusel con jQuery y Bootstrap](https://github.com/nattituu/Modeulo2_Leccion-6-Carrousel-jQuery-Bootstrap)
-- [**Proyecto Python: E-commerce Modular**] (https://github.com/nattituu/ecommerce_m3)
+- [**Proyecto Python: E-commerce Modular**](https://github.com/nattituu/ecommerce_m3)
 ---
 
 ## 🎯 Objetivos profesionales
