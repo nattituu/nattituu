@@ -11,7 +11,7 @@
 ---
 
 ## 💻 Sobre mí
-Soy **Desarrolladora Full-Stack Python Trainee**, actualmente formándome en el bootcamp  
+Soy una Desarrolladora Full-Stack en Formación (Trainee) con una base sólida en Python, Django y Front-End, actualmente formándome en el bootcamp  
 **"Desarrollo de Aplicaciones Full Stack Python"** (SENCE – Sustantiva).
 
 Me encanta aprender, practicar y construir proyectos reales que me permitan crecer profesionalmente.  
