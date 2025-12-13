@@ -90,6 +90,11 @@ Aquí algunos ejercicios prácticos que he ido desarrollando:
 📍 Santiago – Chile  
 🌐 GitHub: **@nattituu**
 
-Si buscas a alguien con actitud, humildad, motivación y muchas ganas de aprender…  
-**me encantaría ser parte de tu equipo.**
+Si buscas una **Trainee** con:
+* Una base sólida en **Python** (Bootcamp SENCE-Sustantiva).
+* Un enfoque en **crecimiento y dominio de la lógica**.
+* Actitud, humildad y compromiso total.
+
+➡️ **¡Conectemos en LinkedIn!** [@nattituu](https://www.linkedin.com/in/nattituu)
+Me encantaría iniciar mi carrera en tu equipo y aprender de mentores.
 
