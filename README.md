@@ -11,8 +11,7 @@
 ---
 
 ## 💻 Sobre mí
-Soy una Desarrolladora Full-Stack en Formación (Trainee) con una base sólida en Python, Django y Front-End, actualmente formándome en el bootcamp  
-**"Desarrollo de Aplicaciones Full Stack Python"** (SENCE – Sustantiva).
+Soy una Desarrolladora Full-Stack en Formación (Trainee), actualmente formándome en el bootcamp **"Desarrollo de Aplicaciones Full Stack Python"** (SENCE – Sustantiva).
 
 Me encanta aprender, practicar y construir proyectos reales que me permitan crecer profesionalmente.  
 Soy de **Santiago (Chile)** y estoy comenzando mi camino en el mundo del desarrollo web.
@@ -23,8 +22,8 @@ Mi objetivo es crecer paso a paso, construir una base sólida y prepararme para 
 ---
 
 ## 🔧 Tecnologías que estoy aprendiendo
-- HTML5  
-- CSS3  
+- HTML  
+- CSS  
 - JavaScript  
 - jQuery  
 - Git & GitHub  
