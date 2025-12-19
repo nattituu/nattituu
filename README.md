@@ -83,17 +83,3 @@ Aquí algunos ejercicios prácticos que he ido desarrollando:
 *(Y todo irá creciendo con el tiempo)*
 
 ---
-
-## 📫 ¿Hablamos?
-
-📍 Santiago – Chile  
-🌐 GitHub: **@nattituu**
-
-Si buscas una **Trainee** con:
-* Una base sólida en **Python** (Bootcamp SENCE-Sustantiva).
-* Un enfoque en **crecimiento y dominio de la lógica**.
-* Actitud, humildad y compromiso total.
-
-➡️ **¡Conectemos en LinkedIn!** [@nattituu](https://www.linkedin.com/in/nattituu)
-Me encantaría iniciar mi carrera en tu equipo y aprender de mentores.
-
